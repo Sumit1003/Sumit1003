@@ -1,4 +1,7 @@
-# 💫 About Me:
+# 👋 Hello, I'm Sumit
+
+I'm a passionate **Full-Stack Developer** with a strong focus on building scalable and user-centric web applications. I enjoy working with modern technologies and delivering high-quality, maintainable code. I specialize in **React.js**, **Node.js**, and creating clean, responsive UI experiences.
+
 🌱 I’m currently learning<br><br>Next.js, TypeScript, Web Performance Optimization, and Advanced UI/UX<br><br>👯 I’m looking to collaborate on<br><br>Open-source React projects, full-stack apps, or anything that makes the web cooler<br><br>💬 Ask me about<br><br>Frontend and backend development, Nodejs, Reactjs, JavaScript, and responsive UI design<br><br>📫 How to reach me<br><br>📧 [sk6306210@gmail.com]<br>🌐 [https://github.com/Sumit1003]<br>💼 [https://linkedin.com/in/Sumit-s30]<br><br>⚡ Fun fact<br><br>I once built a whole mini-ecommerce app in a weekend fueled by caffeine and excitement<br><br>
 
 
